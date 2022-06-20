@@ -1,6 +1,6 @@
 export const data = [
     {question: '¿Cual es la capital de Finlandia?',
-     choices: ['Helsinky', 'Otanfur', 'Rovaniemi', 'Turku'],
+     choices: ['Helsinki', 'Otanfur', 'Rovaniemi', 'Turku'],
      answer: 'Helsinki'},
     
     {question: '¿Cual es la capital de Grecia?',
